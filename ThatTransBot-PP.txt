@@ -1,0 +1,1 @@
+we store only errors, and they get fixed and cleared really fast
